@@ -1,0 +1,1 @@
+/Users/nbritton/.vim/plugged/molokai/colors/molokai.vim
